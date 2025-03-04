@@ -1,2 +1,2 @@
 # mydemo
-my first gti repository
+my first Git repository
